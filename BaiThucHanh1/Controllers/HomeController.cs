@@ -1,5 +1,5 @@
-﻿using BaiThucHanh1.Models;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
+using BaiThucHanh1.Models;
 using System.Diagnostics;
 
 namespace BaiThucHanh1.Controllers
